@@ -1,0 +1,4 @@
+IMDB help
+
+activate Python 2 by typing: 'source activate python2' into the terminal
+from there you can either use a script or work directly from the command line to use the API
